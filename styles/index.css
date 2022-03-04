@@ -113,6 +113,7 @@ button {
   text-align: start;
   padding: 2rem 0.5rem;
   border-radius: 10px;
+  display: none;
 }
 
 .courses {
