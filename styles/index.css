@@ -106,7 +106,6 @@ button {
 
 .courses,
 .about_us {
-  display: grid;
   grid-template-rows: repeat(2, auto);
   row-gap: 1rem;
   background-color: #fff;
