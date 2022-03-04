@@ -63,10 +63,6 @@ button {
   padding-bottom: 0.5rem;
   padding-top: 0.5rem;
   margin: 1rem;
-}
-
-.mycourses,
-.myaboutus {
   margin-left: 3rem;
 }
 
@@ -114,21 +110,21 @@ button {
   grid-template-rows: repeat(2, auto);
   row-gap: 1rem;
   background-color: #fff;
-  padding: 2rem;
-  border-radius: 15px;
-  display: none;
+  text-align: start;
+  padding: 2rem 0.5rem;
+  border-radius: 10px;
 }
 
 .courses {
   position: absolute;
   top: 7rem;
-  left: 25rem;
+  left: 35rem;
 }
 
 .about_us {
   position: absolute;
   top: 7rem;
-  left: 40rem;
+  left: 46rem;
 }
 
 .courses a,
