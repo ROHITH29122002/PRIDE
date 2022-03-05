@@ -55,7 +55,6 @@ button {
 .pride_heading {
   font-weight: 700;
   font-size: 3rem;
-  color: #2f2faf;
   padding: 1rem;
 }
 
@@ -79,7 +78,7 @@ button {
   justify-content: space-around;
   border-radius: 15px;
   margin-right: 2rem;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .nav_input {
