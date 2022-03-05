@@ -127,20 +127,20 @@ button {
   padding: 2rem 0.5rem;
   border-radius: 10px;
   display: none;
-  padding-left: 1rem;
+  padding: 1rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .courses {
   position: absolute;
   top: 5rem;
-  left: 35rem;
+  left: 30rem;
 }
 
 .about_us {
   position: absolute;
   top: 5rem;
-  left: 45rem;
+  left: 41rem;
 }
 
 .courses a,
